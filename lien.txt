@@ -1,0 +1,2 @@
+https://rizzingrezz.github.io/three/examples/webgl_loader_collada_skinning
+https://sketchfab.com/3d-models?features=downloadable&sort_by=-likeCount&cursor=cj0xJnA9MTY2MQ%3D%3D
