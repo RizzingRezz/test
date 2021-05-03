@@ -1,4 +1,3 @@
-# test
+# test image
+![img](https://raw.githubusercontent.com/marctarrade/swapi_v2/dev/assets/background.jpg)
 
-![img](https://i.imgur.com/Elc0rWl.jpg)
-# My cool project and this non sense meme
